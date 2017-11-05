@@ -1,3 +1,9 @@
 [submodule "module/AclAdmin"]
 	path = module/AclAdmin
 	url = https://danmarinescu79@github.com/danmarinescu79/acl-admin.git
+[submodule "module/NavigationAdmin"]
+	path = module/NavigationAdmin
+	url = https://danmarinescu79@github.com/danmarinescu79/navigation-admin.git
+[submodule "module/UserAdmin"]
+	path = module/UserAdmin
+	url = https://danmarinescu79@github.com/danmarinescu79/user-admin.git
