@@ -1,3 +1,3 @@
-[submodule "module/acl-admin"]
-	path = module/acl-admin
+[submodule "module/AclAdmin"]
+	path = module/AclAdmin
 	url = https://danmarinescu79@github.com/danmarinescu79/acl-admin.git

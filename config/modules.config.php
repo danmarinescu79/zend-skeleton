@@ -27,4 +27,5 @@ return [
     'DoctrineModule',
     'DoctrineORMModule',
     'Application',
+    'AclAdmin',
 ];
