@@ -34,7 +34,9 @@
     "autoload": {
         "psr-4": {
             "Application\\": "module/Application/src/",
-            "AclAdmin\\": "module/AclAdmin/src/"
+            "AclAdmin\\": "module/AclAdmin/src/",
+            "UserAdmin\\": "module/UserAdmin/src/",
+            "NavigationAdmin\\": "module/NavigationAdmin/src/"
         }
     },
     "autoload-dev": {

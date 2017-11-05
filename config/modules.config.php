@@ -28,4 +28,6 @@ return [
     'DoctrineORMModule',
     'Application',
     'AclAdmin',
+    'UserAdmin',
+    'NavigationAdmin',
 ];
