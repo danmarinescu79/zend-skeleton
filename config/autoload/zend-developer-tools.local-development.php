@@ -72,7 +72,9 @@ return [
              * Example: 'collectors' => array('db' => null)
              * Expects: array
              */
-            'collectors' => [],
+            'collectors' => [
+                'db' => null
+            ],
         ],
         'events' => [
             /**
@@ -92,7 +94,9 @@ return [
              * Example: 'collectors' => array('memory' => null)
              * Expects: array
              */
-            'collectors' => [],
+            'collectors' => [
+                'db' => null
+            ],
 
             /**
              * Contains event identifiers used with the event listener. Zend Developer Tools defaults to listen to all
@@ -102,7 +106,9 @@ return [
              * Example: 'identifiers' => array('all' => null, 'dispatchable' => 'Zend\Stdlib\DispatchableInterface')
              * Expects: array
              */
-            'identifiers' => [],
+            'identifiers' => [
+                'db' => null
+            ],
         ],
         /**
          * General Toolbar settings
